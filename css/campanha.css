@@ -1,0 +1,48 @@
+body {
+    position: absolute;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+  }
+img {
+    float:left;
+    margin-top: -3.5rem;
+}
+nav {
+    width: 100%;
+}
+.header__span{
+    float: right;
+    margin-top: 2.5rem;
+}
+.container {
+/* margin-left: 13rem; */
+/* margin-right: 5rem;     */
+width: 1200px;
+}
+.espaco{
+    padding-right: 20px;
+
+}
+#imagem__principal{
+    height: 600px;
+    width: 1000px;
+    margin-top: 1.5rem;
+    margin-left: 9%;
+    
+}
+
+.content{
+    width: 1200px;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+    height: 30px;
+  }
